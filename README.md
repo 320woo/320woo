@@ -1,8 +1,3 @@
-<div align="center"><h4>☁️SNS☁️</h4></div>
-<div align="center">
-<a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</div>
-
 <div align="center"><h4>🧠Skils🧠</h4></div>
 <div align="center">
 <img src="https://img.shields.io/badge/Java 11/12-007396?style=flat-square&logo=Java&logoColor=white"/>
@@ -28,6 +23,13 @@
 <img src="https://img.shields.io/badge/QGIS-589632?style=flat-square&logo=QGIS&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> 
+</div>
+
+<br/>
+
+<div align="center"><h4>☁️SNS☁️</h4></div>
+<div align="center">
+<a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 <br/>
