@@ -28,7 +28,7 @@
 
 <div align="center"><h3>☁️SNS☁️</h3></div>
 <div align="center">
-<a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/320woo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://grandiose-pineapple-5be.notion.site/3e1856c6502f478b9fda6f3b042b5e31" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
 <br/>
